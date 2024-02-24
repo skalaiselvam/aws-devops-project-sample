@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 main1
 main file
->>>>>>> b82a57bf0a2796747323217c286b4b01aeab1e8a
