@@ -16,6 +16,6 @@ artifacts:
   type: 
   files:
     - index.html
-    - appspec.yml
+    - appspec.yaml
     - scripts/install_dependencies
     - scripts/start_server
